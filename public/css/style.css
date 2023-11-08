@@ -16,3 +16,11 @@ ul {
       padding: 10px;
       background-color: #dddddd;
     }
+
+    .shaded-box {
+      background-color: tan;
+      padding: 50px;
+      margin-left: 1in;
+      display: inline-block;
+      color: brown;
+    }
